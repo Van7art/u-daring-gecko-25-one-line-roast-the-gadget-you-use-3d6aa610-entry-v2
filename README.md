@@ -1,8 +1,10 @@
 # One-Line Roast: The Gadget You Use Every Day
 
 [![make.fun](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610.svg)](https://make.fun/competitions/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
-[![rank](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/Van7art/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610-entry/rank.svg)](https://make.fun/competitions/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
-[![reward](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/Van7art/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610-entry/reward.svg)](https://make.fun/competitions/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
+[![rank](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/Van7art/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610-entry-v2/rank.svg)](https://make.fun/competitions/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
+[![reward](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/Van7art/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610-entry-v2/reward.svg)](https://make.fun/competitions/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
+
+<!-- Submitted from the -v2 repository (created after the competition opened); badges above point at that repo. -->
 
 > My printer only jams on documents that actually matter — it can smell a deadline the way a dog smells fear.
 
